@@ -13,4 +13,4 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_YASHPANDYA_9492D }}'
-          projectId: yashpandya-9492d
+          projectId: yashpandya
